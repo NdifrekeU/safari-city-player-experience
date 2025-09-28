@@ -78,3 +78,23 @@ looker_studio_link.txt
 slides.pdf # executive summary deck
 cover_snippet.txt # application message draft
 README.md # this file
+
+
+
+---
+
+## 🚀 How to Reproduce
+1. Install dependencies (`pip install google-play-scraper pandas matplotlib seaborn vaderSentiment wordcloud`).  
+2. Run `01_data_collection.ipynb` → fetch Safari City reviews.  
+3. Run `02_eda_reviews.ipynb` → produce plots & sentiment analysis.  
+4. Review outputs in `/figures` and `slides.pdf`.  
+
+---
+
+## 📢 Project Showcase
+- **GitHub Repo:** [https://github.com/NdifrekeU/safari-city-player-experience]  
+---
+
+## 🔗 References
+- [Safari City on Google Play](https://play.google.com/store/apps/details?id=com.maliyo.safaricity)  
+- [Maliyo Games Careers](https://www.maliyo.com)  
