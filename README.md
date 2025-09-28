@@ -67,28 +67,6 @@ Safari City has a strong cultural theme and good ratings but is much smaller in 
 - Sentiment distribution pie chart  
 - Time series chart of rolling average ratings  
 - Word cloud of negative review keywords  
-
----
-
-## 📂 Repo Structure
-/data
-sample_reviews.csv # 2–5k row sample (public)
-/notebooks
-01_data_collection.ipynb # review scraping
-02_eda_reviews.ipynb # sentiment, plots
-03_aso_and_metrics.ipynb # app store optimization & competitor notes
-/figures
-rating_hist.png
-sentiment_pie.png
-wordcloud_negative.png
-/dashboards
-looker_studio_link.txt
-slides.pdf # executive summary deck
-cover_snippet.txt # application message draft
-README.md # this file
-
-
-
 ---
 
 ## 🚀 How to Reproduce
