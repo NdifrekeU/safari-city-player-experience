@@ -47,10 +47,10 @@ I followed the **Google Data Analytics process (Ask → Prepare → Process → 
 Safari City has a strong cultural theme and good ratings but is much smaller in installs/reviews than category leaders (e.g., Homescapes, Township, Matchington). This means **Maliyo should focus on increasing visibility (ASO, review acquisition)** and continue **product improvements** to grow organic traction.
 
 **Benchmarks used:**
-Homescapes (100M+ installs, ~13M reviews), 
-Township (100M+ installs, ~12M reviews),
-Matchington (100M+ installs, ~2.3M reviews),
-Design Home (50M+ installs, ~1.1M ratings
+- Homescapes (100M+ installs, ~13M reviews)    
+- Township (100M+ installs, ~12M reviews)    
+- Matchington (100M+ installs, ~2.3M reviews)     
+- Design Home (50M+ installs, ~1.1M ratings       
 
 ---
 
