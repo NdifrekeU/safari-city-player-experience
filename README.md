@@ -1,6 +1,3 @@
-# safari-city-player-experience
-My analysis of Safari City on the Google Play Store
-
 # 🎮 Safari City — Player Experience Analysis
 
 ## 📌 Project Overview
